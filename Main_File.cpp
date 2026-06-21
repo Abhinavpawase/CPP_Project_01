@@ -1,6 +1,8 @@
 
 #include "Header.h"
 
+// Abstract Class Example
+
 class Identifiable{
 protected:
     string uniqueID;
